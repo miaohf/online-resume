@@ -9,11 +9,11 @@ contact:
   # meta
   location: 杭州, 中国      # location
   email: miaohf@sina.com   # email address
-  phone: +86-13858003606   # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  phone: +86-138-5800-3606   # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
+  gender:  男                # gender or pronoun
+  birthday:  1978-07-16      # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
