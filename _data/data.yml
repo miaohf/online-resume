@@ -1,15 +1,15 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: 缪海锋                      # name
+  title: 后端开发           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: 杭州, 中国      # location
+  email: miaohf@sina.com   # email address
+  phone: +86-13858003606   # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
