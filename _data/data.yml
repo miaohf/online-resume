@@ -83,18 +83,18 @@ profile:
   order: 1
   title: Profile
   description: |
-    熟悉网络故障排查分析，IDC服务器网络方案设计
-    熟悉思科、华为、F5、sangfor网络设备操作。
-    熟悉基于（DNS动态解析、异地容灾、LVS+Keeplived、反向代理、memcached、redis高可用集群、mysql高可用集群）网站高可用平台搭建方案，
-    了解虚拟机技术，熟悉基于Vmware esxi、KVM的虚拟化集群的部署；
-    了解容器化技术和容器编排技术，熟悉基于docker容器的应用部署，镜像制作，私有仓库搭建；
-    了解计算机网络原理，熟悉常用的网络协议
-    了解网络穿透原理、熟悉FRP等self-host网络穿透的部署；
-    熟悉Ansible自动化运维，使用自带核心模块进行程序的批量部署，执行脚本等等；
-    熟悉linux环境系统安全加固策略、性能优化技巧、shell脚本编写
-    了解ELK 日志分析架构的搭建、部署，实现对单个节点日志的综合存储、显示；
-    熟悉 Zabbix+Grafana分布式监控和故障告警；
-    熟练使用wireshark/tcpdump/tshark抓包分析网络数据排障；
+    - 熟悉网络故障排查分析，IDC服务器网络方案设计
+    - 熟悉思科、华为、F5、sangfor网络设备操作。
+    - 熟悉基于（DNS动态解析、异地容灾、LVS+Keeplived、反向代理、memcached、redis高可用集群、mysql高可用集群）网站高可用平台搭建方案，
+    - 了解虚拟机技术，熟悉基于Vmware esxi、KVM的虚拟化集群的部署；
+    - 了解容器化技术和容器编排技术，熟悉基于docker容器的应用部署，镜像制作，私有仓库搭建；
+    - 了解计算机网络原理，熟悉常用的网络协议
+    - 了解网络穿透原理、熟悉FRP等self-host网络穿透的部署；
+    - 熟悉Ansible自动化运维，使用自带核心模块进行程序的批量部署，执行脚本等等；
+    - 熟悉linux环境系统安全加固策略、性能优化技巧、shell脚本编写
+    - 了解ELK 日志分析架构的搭建、部署，实现对单个节点日志的综合存储、显示；
+    - 熟悉 Zabbix+Grafana分布式监控和故障告警；
+    - 熟练使用wireshark/tcpdump/tshark抓包分析网络数据排障；
 
 
 experience:
