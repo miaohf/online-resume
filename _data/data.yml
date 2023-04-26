@@ -84,17 +84,17 @@ profile:
   title: Profile
   description: |
     - 熟悉网络故障排查分析，IDC服务器网络方案设计
-    - 熟悉思科、华为、F5、sangfor网络设备操作。
+    - 熟悉思科、华为、F5、sangfor网络配置。
     - 熟悉基于（DNS动态解析、异地容灾、LVS+Keeplived、反向代理、memcached、redis高可用集群、mysql高可用集群）网站高可用平台搭建方案，
+    - 熟悉Ansible自动化运维，使用自带核心模块进行程序的批量部署，执行脚本等等；
+    - 熟悉linux环境系统安全加固策略、性能优化技巧、shell脚本编写
+    - 熟悉 Zabbix、Grafana分布式监控和故障告警；
+    - 熟练使用wireshark/tcpdump/tshark抓包分析网络数据排障；
     - 了解虚拟机技术，熟悉基于Vmware esxi、KVM的虚拟化集群的部署；
     - 了解容器化技术和容器编排技术，熟悉基于docker容器的应用部署，镜像制作，私有仓库搭建；
     - 了解计算机网络原理，熟悉常用的网络协议
     - 了解网络穿透原理、熟悉FRP等self-host网络穿透的部署；
-    - 熟悉Ansible自动化运维，使用自带核心模块进行程序的批量部署，执行脚本等等；
-    - 熟悉linux环境系统安全加固策略、性能优化技巧、shell脚本编写
     - 了解ELK 日志分析架构的搭建、部署，实现对单个节点日志的综合存储、显示；
-    - 熟悉 Zabbix+Grafana分布式监控和故障告警；
-    - 熟练使用wireshark/tcpdump/tshark抓包分析网络数据排障；
 
 
 experience:
@@ -119,6 +119,7 @@ experience:
         + 桌面相关运维技术支持
         + 运维管理平台的应用平台的开发
         + 运维监控平台的搭建
+        + 自建github代码仓库管理
     
     - company: 浙江国自机器人股份有限公司
       link: http://www.gzrobot.com/
@@ -166,6 +167,7 @@ experience:
         + 开课啦运维规范的研讨与制定
         + 网站CDN加速对接（页面静态加速、全站加速、点播视频加速）
         
+        
     - company: 华数传媒网络有限公司
       link: www.wasu.com.cn
       tags: Full-time
@@ -178,6 +180,8 @@ experience:
         + 手机电视直播方案落地（专线接入、直播编码与分发、信号落地、流媒体服务器调试）
         + 手机电视直播编码服务器集群与网络系统的维护（维护、扩容、改造）
         + 搭建基于zabbix的运维监控平台、Python二次开发实现告警信息对接钉钉机器人
+        + 编码器采购项目技术参数指标草拟
+        + 对直播流在公网链路传输的质量持续跟踪分析和代码优化
 
     - company: 亚信科技股份有限公司
       link: https://www.asiainfo.com/
@@ -245,11 +249,22 @@ project:
     - name: 华数传媒手机电视直播编码平台扩容
       link:
       tags: committer
-      date:
+      date: 2010 - 2015
       description: |
         + 编码服务器上架
         + 软件系统调试
         + 直播网络扩容
+
+    - name: 北方电信业务支撑系统
+      link: 2003 - 2004
+      tags: committer
+      date:
+      description: |
+        + 服务器上架
+        + 数据库安装
+        + HACMP、Oracle、MQSeries、Visibroker，CrossWorlds  的配合调试
+
+
 
 # skill:
 #   show: true
