@@ -114,8 +114,11 @@ experience:
       location: 杭州
       description: |
         运维管理
-        + 硬件（服务器管理）设备搭建
-        + 软件（数据库/中间件）安装部署
+        + IDC机房的运维管理
+        + 自建邮件服务器的运维管理（故障处理、容灾方案）
+        + 桌面相关运维技术支持
+        + 运维管理平台的应用平台的开发
+        + 运维监控平台的搭建
     
     - company: 浙江国自机器人股份有限公司
       link: http://www.gzrobot.com/
@@ -126,12 +129,14 @@ experience:
       description: |
         调度软件实施方案优化
         + 调度软件实施docker化部署（docker）
+        + 实施现场服务器与网络建设方案
+        + 基于Vmware EXI的服务器虚拟化方案实施与运维管理
 
     - company: 嘉兴九色鹿软件科技有限公司（自主创业）
       link: 
       tags: Full-time
       date: 2017.07 - 2022.07
-      role: 项目管理
+      role: 软件项目负责
       location: 嘉兴
       description: |
         项目管理工作
@@ -155,6 +160,11 @@ experience:
         + LVS+Keepalived+Nginx高可用、Zabbix监控系统、ELK日志监控系统部署
         + Jenkins + Saltstack自动部署方案
         + 开课啦新办公区办公区机房与桌面网络方案设计（桌面有线接入、AP/AC无线接入）
+        + APM监控分析和Timeline页面性能分析
+        + DNS劫持（HTTP-DNS）、路由劫持等问题的技术分析
+        + 业务高峰扩容技术方案，高防方案，高峰运维技术方案
+        + 开课啦运维规范的研讨与制定
+        + 网站CDN加速对接（页面静态加速、全站加速、点播视频加速）
         
     - company: 华数传媒网络有限公司
       link: www.wasu.com.cn
@@ -206,12 +216,12 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
+  # description: |
+  #   The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
 
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
+  #   In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
 
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+  #   The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
     - name: Personal project
@@ -223,6 +233,15 @@ project:
         + First
         + Second
 
+    - name: OSS project
+      link:
+      tags: committer
+      date:
+      description: |
+        OSS project description...
+        + First
+        + Second
+    
     - name: OSS project
       link:
       tags: committer
