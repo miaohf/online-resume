@@ -148,10 +148,13 @@ experience:
       location: 杭州
       description: |
         开课啦事业部运维工作
-        + IDC迁移（IDC考察选址、硬件设备搬迁上架、软件平滑迁移方案）
+        + IDC迁移（IDC考察选址、硬件设备搬迁上架、实现硬件节点冗余/软件节点冗余、软件平滑迁移方案）
         + 数据库高可用集群（读写分离、双主双备、）
-        + 配合研发团队对软件应用微服务化改造，对服务器物理机进行基于Linux KVM的虚拟化集群改造，基于saltstack建设批量管理平台
-        + 部分应用采用docker部署（自建私有仓库、撰写镜像build文件、撰写docker-compose集群配置文件、搭建docker界面管理及监控平台）
+        + 应用微服务化改造，对物理机进行基于Linux KVM的虚拟化集群改造
+        + 部分应用采用docker部署（自建私有仓库、撰写镜像文件、撰写集群配置文件、搭建可视化管理及监控平台）
+        + LVS+Keepalived+Nginx高可用、Zabbix监控系统、ELK日志监控系统部署
+        + Jenkins + Saltstack自动部署方案
+        + 开课啦新办公区办公区机房与桌面网络方案设计（桌面有线接入、AP/AC无线接入）
         
     - company: 华数传媒网络有限公司
       link: www.wasu.com.cn
@@ -181,7 +184,7 @@ experience:
       link: http://www.landpage.com.cn
       tags: Full-time
       date: 2003.07 - 2004.03
-      role: Backend Developer
+      role: 系统工程师
       location: 杭州
       description: |
         数据中心基础环境搭建与维护
@@ -251,16 +254,7 @@ skill:
       level: 3
     - name: Skill D
       level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
+
 
   groups:
     - name: Group A Skills
@@ -284,30 +278,24 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
+    - institution: 浙江工业大学
       link: '#'
       date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+      major: 电子与通信
+      degree: 硕士
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        在职研究生，工程硕士，单证
 
-    - institution: Example University
+    - institution: 杭州应用工程师技术学院
       link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+      date: 1997 - 2001
+      major: 计算机科学与技术
+      degree: 
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        大学全日制本科
+
 
 certificate:
   show: true
