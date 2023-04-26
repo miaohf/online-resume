@@ -238,7 +238,7 @@ project:
 
     - name: 上海联通手机电视合作平台建设
       link:
-      tags: committer
+      tags: 
       date: 2010 - 2012
       description: |
         + 直播分发网络方案建设（专线接入、编码规划）
@@ -248,7 +248,7 @@ project:
     
     - name: 华数传媒手机电视直播编码平台扩容
       link:
-      tags: committer
+      tags: 
       date: 2010 - 2015
       description: |
         + 编码服务器上架
@@ -257,7 +257,7 @@ project:
 
     - name: 北方电信业务支撑系统
       link: 2003 - 2004
-      tags: committer
+      tags: 
       date:
       description: |
         + 服务器上架
