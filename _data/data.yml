@@ -106,50 +106,39 @@ experience:
 
   items:
 
-    - company: 自主创业
+    - company: 恒天软件
+      link: http://www.hengtiansoft.com
+      tags: Full-time
+      date: 2022.11 - 2023.05
+      role: 高级运维工程师
+      location: 杭州
+      description: |
+        数据中心基础环境搭建与维护
+        + 硬件（服务器/网络/存储）设备搭建
+        + 软件（数据库/中间件）安装部署
+    
+    - company: 国自机器人
       link: 
       tags: Full-time
-      date: 2017.07 - 2022.03
-      role: 软件项目管理
-      location: 嘉兴
+      date: 2022.06 - 2022.011
+      role: 高级运维工程师
+      location: 杭州
       description: |
         数据中心基础环境搭建与维护
         + 硬件（服务器/网络/存储）设备搭建
         + 软件（数据库/中间件）安装部署
 
-    - company: 自主创业
-      link: 
-      tags: Full-time
-      date: 2017.07 - 2022.03
-      role: 软件项目管理
-      location: 嘉兴
-      description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
-        + 软件（数据库/中间件）安装部署
-
 
     - company: 自主创业
       link: 
       tags: Full-time
-      date: 2017.07 - 2022.03
-      role: 软件项目管理
+      date: 2017.07 - 2022.07
+      role: 项目管理
       location: 嘉兴
       description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
-        + 软件（数据库/中间件）安装部署
-
-    - company: 自主创业
-      link: 
-      tags: Full-time
-      date: 2017.07 - 2022.03
-      role: 软件项目管理
-      location: 嘉兴
-      description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
-        + 软件（数据库/中间件）安装部署
+        项目管理工作
+        + 需求分析、方案设计、
+        + 硬件设备的上架、网络接入、项目后期维护
 
 
     - company: 铭师堂教育
@@ -166,12 +155,12 @@ experience:
     - company: 华数传媒
       link: www.wasu.com.cn
       tags: Full-time
-      date: 2003.07 - 2004.03
-      role: Backend Developer
+      date: 2010.07 - 2015.03
+      role: 运维工程师
       location: Beijing
       description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
+        项目实施和系统运维
+        + 手机电视平台的实施部署（IDC布线、机柜架设、网络接入、服务器上架、应用软件部署、数据库安装）
         + 软件（数据库/中间件）安装部署
 
     - company: 亚信科技
