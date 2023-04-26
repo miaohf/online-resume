@@ -106,30 +106,28 @@ experience:
 
   items:
 
-    - company: 恒天软件
+    - company: 浙江网新恒天软件有限公司
       link: http://www.hengtiansoft.com
       tags: Full-time
       date: 2022.11 - 2023.05
       role: 高级运维工程师
       location: 杭州
       description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
+        运维管理
+        + 硬件（服务器管理）设备搭建
         + 软件（数据库/中间件）安装部署
     
-    - company: 国自机器人
-      link: 
+    - company: 浙江国自机器人股份有限公司
+      link: http://www.gzrobot.com/
       tags: Full-time
       date: 2022.06 - 2022.011
       role: 高级运维工程师
       location: 杭州
       description: |
-        数据中心基础环境搭建与维护
-        + 硬件（服务器/网络/存储）设备搭建
-        + 软件（数据库/中间件）安装部署
+        调度软件实施方案优化
+        + 调度软件实施docker化部署（docker）
 
-
-    - company: 自主创业
+    - company: 嘉兴九色鹿软件科技有限公司（自主创业）
       link: 
       tags: Full-time
       date: 2017.07 - 2022.07
@@ -137,11 +135,12 @@ experience:
       location: 嘉兴
       description: |
         项目管理工作
-        + 需求分析、方案设计、
+        + 需求分析、方案设计
         + 硬件设备的上架、网络接入、项目后期维护
+        + IDC运维项目技术支持
+        + 基于阿里云服务器的软件项目方案研究与落地
 
-
-    - company: 铭师堂教育
+    - company: 杭州铭师堂教育科技有限公司
       link: http://www.mistong.com
       tags: Full-time
       date: 2015.07 - 2017.03
@@ -149,21 +148,25 @@ experience:
       location: 杭州
       description: |
         开课啦事业部运维工作
-        + IDC迁移
-        + 软件（数据库/中间件）安装部署
+        + IDC迁移（IDC考察选址、硬件设备搬迁上架、软件平滑迁移方案）
+        + 数据库高可用集群（读写分离、双主双备、）
+        + 配合研发团队对软件应用微服务化改造，对服务器物理机进行基于Linux KVM的虚拟化集群改造，基于saltstack建设批量管理平台
+        + 部分应用采用docker部署（自建私有仓库、撰写镜像build文件、撰写docker-compose集群配置文件、搭建docker界面管理及监控平台）
         
-    - company: 华数传媒
+    - company: 华数传媒网络有限公司
       link: www.wasu.com.cn
       tags: Full-time
       date: 2010.07 - 2015.03
       role: 运维工程师
-      location: Beijing
+      location: 杭州
       description: |
         项目实施和系统运维
         + 手机电视平台的实施部署（IDC布线、机柜架设、网络接入、服务器上架、应用软件部署、数据库安装）
-        + 软件（数据库/中间件）安装部署
+        + 手机电视直播方案落地（专线接入、直播编码与分发、信号落地、流媒体服务器调试）
+        + 手机电视直播编码服务器集群与网络系统的维护（维护、扩容、改造）
+        + 搭建基于zabbix的运维监控平台、Python二次开发实现告警信息对接钉钉机器人
 
-    - company: 亚信科技
+    - company: 亚信科技股份有限公司
       link: https://www.asiainfo.com/
       tags: Full-time
       date: 2004.04 - 2010.04
@@ -174,18 +177,18 @@ experience:
         + 营业、计费、账务、即开即通等系统的软件运维
         + 端到端的项目管理（需求沟通、方案确认、人员协调、产品交付）
 
-    - company: 浙大兰德
+    - company: 浙大网新兰德科技股份有限公司
       link: http://www.landpage.com.cn
       tags: Full-time
       date: 2003.07 - 2004.03
       role: Backend Developer
-      location: Beijing
+      location: 杭州
       description: |
         数据中心基础环境搭建与维护
         + 硬件（服务器/网络/存储）设备搭建
         + 软件（数据库/中间件）安装部署
 
-    - company: 东信亿泰
+    - company: 东信亿泰网络科技有限公司
       link: 
       tags: Full-time
       date: 2001.03 - 2003.07
