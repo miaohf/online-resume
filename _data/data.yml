@@ -1,6 +1,6 @@
 basic:
   name: 缪海锋                      # name
-  title: 后端开发           # job title
+  title: 高级运维工程师           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -83,13 +83,13 @@ profile:
   order: 1
   title: Profile
   description: |
-    - 熟悉网络故障排查分析，IDC服务器网络方案设计
+    - 熟悉数据中心网络方案设计(网络拓扑图、网络割接方案)
+    - 熟悉Zabbix、Grafana分布式监控和故障告警平台方案；
+    - 熟悉网络监控方案与网络数据进行故障分析（wireshark/tcpdump/tshark抓包分析网络数据排障；）
     - 熟悉思科、华为、F5、sangfor网络配置。
     - 熟悉基于（DNS动态解析、异地容灾、LVS+Keeplived、反向代理、memcached、redis高可用集群、mysql高可用集群）网站高可用平台搭建方案，
     - 熟悉Ansible自动化运维，使用自带核心模块进行程序的批量部署，执行脚本等等；
     - 熟悉linux环境系统安全加固策略、性能优化技巧、shell脚本编写
-    - 熟悉 Zabbix、Grafana分布式监控和故障告警；
-    - 熟练使用wireshark/tcpdump/tshark抓包分析网络数据排障；
     - 了解虚拟机技术，熟悉基于Vmware esxi、KVM的虚拟化集群的部署；
     - 了解容器化技术和容器编排技术，熟悉基于docker容器的应用部署，镜像制作，私有仓库搭建；
     - 了解计算机网络原理，熟悉常用的网络协议
@@ -108,22 +108,20 @@ experience:
 
     - company: 浙江网新恒天软件有限公司
       link: http://www.hengtiansoft.com
-      tags: Full-time
+      tags: 全职
       date: 2022.11 - 2023.05
       role: 高级运维工程师
       location: 杭州
       description: |
-        运维管理
+        负责IT运维相关工作
         + IDC机房的运维管理
         + 自建邮件服务器的运维管理（故障处理、容灾方案）
-        + 桌面相关运维技术支持
-        + 运维管理平台的应用平台的开发
         + 运维监控平台的搭建
-        + 自建github代码仓库管理
+
     
     - company: 浙江国自机器人股份有限公司
       link: http://www.gzrobot.com/
-      tags: Full-time
+      tags: 全职
       date: 2022.06 - 2022.011
       role: 高级运维工程师
       location: 杭州
@@ -135,27 +133,26 @@ experience:
 
     - company: 嘉兴九色鹿软件科技有限公司（自主创业）
       link: 
-      tags: Full-time
+      tags: 全职
       date: 2017.07 - 2022.07
       role: 软件项目负责
       location: 嘉兴
       description: |
-        项目管理工作
-        + 需求分析、方案设计
-        + 硬件设备的上架、网络接入、项目后期维护
-        + IDC运维项目技术支持
+        负责IT项目技术支持与项目管理
+        + 企业网络组件方案设计（IP地址规划，网络逻辑拓扑图绘制、网络设备配置）
+        + 房管局机房改造项目技术方案与落地
         + 基于阿里云服务器的软件项目方案研究与落地
 
     - company: 杭州铭师堂教育科技有限公司
       link: http://www.mistong.com
-      tags: Full-time
+      tags: 全职
       date: 2015.07 - 2017.03
       role: 高级运维工程师
       location: 杭州
       description: |
         开课啦事业部运维工作
         + IDC迁移（IDC考察选址、硬件设备搬迁上架、实现硬件节点冗余/软件节点冗余、软件平滑迁移方案）
-        + 数据库高可用集群（读写分离、双主双备、）
+        + 数据库高可用集群（读写分离、双主双备）
         + 应用微服务化改造，对物理机进行基于Linux KVM的虚拟化集群改造
         + 部分应用采用docker部署（自建私有仓库、撰写镜像文件、撰写集群配置文件、搭建可视化管理及监控平台）
         + LVS+Keepalived+Nginx高可用、Zabbix监控系统、ELK日志监控系统部署
@@ -170,7 +167,7 @@ experience:
         
     - company: 华数传媒网络有限公司
       link: www.wasu.com.cn
-      tags: Full-time
+      tags: 全职
       date: 2010.07 - 2015.03
       role: 运维工程师
       location: 杭州
@@ -185,7 +182,7 @@ experience:
 
     - company: 亚信科技股份有限公司
       link: https://www.asiainfo.com/
-      tags: Full-time
+      tags: 全职
       date: 2004.04 - 2010.04
       role: 数据运维/项目管理
       location: 杭州
@@ -196,7 +193,7 @@ experience:
 
     - company: 浙大网新兰德科技股份有限公司
       link: http://www.landpage.com.cn
-      tags: Full-time
+      tags: 全职
       date: 2003.07 - 2004.03
       role: 系统工程师
       location: 杭州
@@ -207,7 +204,7 @@ experience:
 
     - company: 东信亿泰网络科技有限公司
       link: 
-      tags: Full-time
+      tags: 全职
       date: 2001.03 - 2003.07
       role: 系统工程师
       location: 杭州
@@ -238,7 +235,7 @@ project:
 
     - name: 上海联通手机电视合作平台建设
       link:
-      tags: committer
+      tags: 已完成
       date: 2010 - 2012
       description: |
         + 直播分发网络方案建设（专线接入、编码规划）
@@ -246,21 +243,30 @@ project:
         + 联通内部相关网络工单技术参数拟定
         + 直播网络链路丢包故障分析与优化解决
     
-    - name: 华数传媒手机电视直播编码平台扩容
+    - name: 直播服务集群网络改造
       link:
-      tags: committer
-      date: 2010 - 2015
+      tags: 已完成
+      date: 2014 - 2015
       description: |
         + 编码服务器上架
+        + 软件系统调试
+        + 直播网络扩容
+  
+    - name: 浙江联通手机电视建设项目
+      link:
+      tags: 已完成
+      date: 2010 - 2011
+      description: |
+        + 
         + 软件系统调试
         + 直播网络扩容
 
     - name: 北方电信业务支撑系统
       link: 2003 - 2004
-      tags: committer
+      tags: 已完成
       date:
       description: |
-        + 服务器上架
+        + 网络设备上架，服务配置
         + 数据库安装
         + HACMP、Oracle、MQSeries、Visibroker，CrossWorlds  的配合调试
 
