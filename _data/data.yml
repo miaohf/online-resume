@@ -81,7 +81,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: Abilities
   description: |
     - 熟悉数据中心网络方案设计(网络拓扑图、网络割接方案)
     - 熟悉Zabbix、Grafana分布式监控和故障告警平台方案；
@@ -361,7 +361,7 @@ education:
       link: https://www.zjut.edu.cn/
       date: 2015 - 2018
       major: 电子与通信
-      degree: 硕士
+      # degree: 硕士
       description: |
         在职研究生，工程硕士
 
@@ -369,7 +369,7 @@ education:
       link: https://www.zust.edu.cn/
       date: 1997 - 2001
       major: 计算机科学与技术
-      degree: 
+      # degree: 
       description: |
         - 计算机通信原理、汇编语言、计算机系统组成、计算机英语、数字电路相关课程学习
         - 大学全日制本科，大学英语四级、
