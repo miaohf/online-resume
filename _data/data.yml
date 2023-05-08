@@ -232,7 +232,7 @@ project:
   items:
     - name: 嘉善县安置房抽签管理项目管理
       link: 
-      tags:
+      tags: 已完成
       date: 2021 - 2022
       description: |
         + 服务端阿里云云服务器高可用集群，网络相关配置
